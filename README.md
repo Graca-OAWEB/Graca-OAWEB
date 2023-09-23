@@ -1,4 +1,12 @@
 ![preview](preview.gif)
+
+Olá! Sou apaixonada por design web e criação de conteúdo digital,
+desenvolvimento de layouts atraentes e funcionais.
+
+Utilizo **HTML** e **CSS** para criar sites responsivos e
+Conhecimento básico em **JavaScript** para adicionar interatividade.
+
+Confira meus repositórios no GitHub para ver meus projetos recentes.
 <!--
 **Graca-OAWEB/Graca-OAWEB** is a ✨ _special_ ✨ repository because its `README
 .md` (this file) appears on your GitHub profile.
