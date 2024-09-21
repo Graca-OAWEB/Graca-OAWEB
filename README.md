@@ -20,8 +20,6 @@ Confira meus repositórios no GitHub para ver meus projetos recentes!
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Graca-OAWEB&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=Graca-OAWEB&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 [<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
