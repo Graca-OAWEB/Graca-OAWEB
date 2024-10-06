@@ -9,10 +9,10 @@ Confira meus repositórios no GitHub para ver meus projetos recentes!
 
 
 
-##Socials:
+#Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/graca-santos) 
 
-# # # Tech Stack:
+# Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%233c417a.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%233c417a.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%233c417a.svg?style=for-the-badge&logo=javascript&logoColor=%233c417a) ![Python](https://img.shields.io/badge/python-3c417a?style=for-the-badge&logo=python&logoColor=ffffff)  ![GithubPages](https://img.shields.io/badge/github%20pages-3c417a?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%233c417a.svg?style=for-the-badge&logo=netlify&logoColor=#ffffff) ![Vercel](https://img.shields.io/badge/vercel-%233c417a.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%233c417a.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%233c417a.svg?style=for-the-badge&logo=github&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%233c417a.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-3c417a?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%233c417a.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # Design:
