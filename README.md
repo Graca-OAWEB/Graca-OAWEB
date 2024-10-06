@@ -1,13 +1,20 @@
-![preview](preview.gif)
+<!--![preview](preview.gif)-->
 
-<!--Olá! Sou apaixonada por design web e criação de conteúdo digital,
-desenvolvimento de layouts atraentes e funcionais.
-Utilizo **HTML** e **CSS** para criar sites responsivos e
-Conhecimento básico em **JavaScript** para adicionar interatividade.
-
-Confira meus repositórios no GitHub para ver meus projetos recentes! -->
 
 ### ✍️ Random Dev Quote
+
+  <h2 align="center">
+         <a href="https://twitter.com/madebygaurav">
+         <img src="<ion-icon name="logo-behance"></ion-icon>" width="32" height="32"/>
+          <ion-icon name="logo-behance"></ion-icon>
+         </a>
+      </h2>
+
+    Olá! Sou apaixonada por design web e criação de conteúdo digital
+    desenvolvimento de layouts atraentes e funcionais,
+    por isso nos meus projetos trabalho acessibilidade, SEO e design de interação o que 
+    facilita chegar nos resultados de interface  excelentes.
+
 
 ---
 
